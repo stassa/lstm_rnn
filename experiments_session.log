@@ -1,0 +1,110 @@
+###@SLIVER> C:\Users\###\Documents\Note Files\Studies notes\University of Sussex\Intelligent Systems MSc\Maths_etc\cswk_3
+> Measure-Command { python experiment_n.py > .\experiment_2/experiment_2.log }
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 15
+Milliseconds      : 919
+Ticks             : 159193518
+TotalDays         : 0.000184251756944444
+TotalHours        : 0.00442204216666667
+TotalMinutes      : 0.26532253
+TotalSeconds      : 15.9193518
+TotalMilliseconds : 15919.3518
+
+
+
+###@SLIVER> C:\Users\###\Documents\Note Files\Studies notes\University of Sussex\Intelligent Systems MSc\Maths_etc\cswk_3
+> Measure-Command { python experiment_n.py > .\experiment_3/experiment_3.log }
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 8
+Seconds           : 48
+Milliseconds      : 679
+Ticks             : 5286795211
+TotalDays         : 0.00611897593865741
+TotalHours        : 0.146855422527778
+TotalMinutes      : 8.81132535166667
+TotalSeconds      : 528.6795211
+TotalMilliseconds : 528679.5211
+
+
+
+###@SLIVER> C:\Users\###\Documents\Note Files\Studies notes\University of Sussex\Intelligent Systems MSc\Maths_etc\cswk_3
+> Measure-Command { python experiment_n.py > .\experiment_5/experiment_5.log }
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 9
+Seconds           : 1
+Milliseconds      : 150
+Ticks             : 5411504025
+TotalDays         : 0.00626331484375
+TotalHours        : 0.15031955625
+TotalMinutes      : 9.019173375
+TotalSeconds      : 541.1504025
+TotalMilliseconds : 541150.4025
+
+
+
+###@SLIVER> C:\Users\###\Documents\Note Files\Studies notes\University of Sussex\Intelligent Systems MSc\Maths_etc\cswk_3
+> Measure-Command { python experiment_n.py > .\experiment_6/experiment_6.log }
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 3
+Seconds           : 26
+Milliseconds      : 272
+Ticks             : 2062728909
+TotalDays         : 0.00238741771875
+TotalHours        : 0.05729802525
+TotalMinutes      : 3.437881515
+TotalSeconds      : 206.2728909
+TotalMilliseconds : 206272.8909
+
+
+
+###@SLIVER> C:\Users\###\Documents\Note Files\Studies notes\University of Sussex\Intelligent Systems MSc\Maths_etc\cswk_3
+> Measure-Command { python experiment_n.py > .\experiment_7/experiment_7.log }
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 6
+Seconds           : 40
+Milliseconds      : 480
+Ticks             : 4004801161
+TotalDays         : 0.00463518652893519
+TotalHours        : 0.111244476694444
+TotalMinutes      : 6.67466860166667
+TotalSeconds      : 400.4801161
+TotalMilliseconds : 400480.1161
+
+
+
+###@SLIVER> C:\Users\###\Documents\Note Files\Studies notes\University of Sussex\Intelligent Systems MSc\Maths_etc\cswk_3
+> Measure-Command { python experiment_n.py > .\experiment_8/experiment_8.log }
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 18
+Seconds           : 56
+Milliseconds      : 223
+Ticks             : 11362236850
+TotalDays         : 0.0131507370949074
+TotalHours        : 0.315617690277778
+TotalMinutes      : 18.9370614166667
+TotalSeconds      : 1136.223685
+TotalMilliseconds : 1136223.685
+
+
+
+###@SLIVER> C:\Users\###\Documents\Note Files\Studies notes\University of Sussex\Intelligent Systems MSc\Maths_etc\cswk_3
+>

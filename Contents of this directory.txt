@@ -1,0 +1,23 @@
+0. Coursework 3 report.pdf
+The report for this assignment.
+
+1. Directory experiments_results
+Results of experiments discussed in report, including logs and R plots.
+
+2. experiments_session.log 
+Output of command-line experiments session (includes time statisics)
+
+3. test.data.pl
+Prolog file used to generate test data
+
+4. experiment_n.py
+Python module used to run experiments, useful for reproducing them.
+
+5. lstm_rnn.py
+VS-LSTM implementation module
+
+6. print_r_plot_files.py
+Python module used to generate R scripts for plotting experiment results.
+
+7. test_data.py
+Datasets used in experiments as a Python module 
